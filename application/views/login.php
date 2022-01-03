@@ -6,7 +6,7 @@
 <table border="0" align="center">
     <tr>
         <td><img src=" <?php echo base_url();?>image/simakda.png" width="80px" weight="30px" border="0"/></td>
-        <td style="font-size: 20px;font-weight: bold;" align="center">PEMERINTAH <?= $kab; ?> <br />TAHUN ANGGARAN 2022</td>
+        <td style="font-size: 20px;font-weight: bold;" align="center">PEMERINTAH <?= $kab; ?> <br />TAHUN ANGGARAN 2022 </td>
     </tr>
 </table>
 <table cellpadding="2px" 
