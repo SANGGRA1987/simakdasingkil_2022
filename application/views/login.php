@@ -6,7 +6,7 @@
 <table border="0" align="center">
     <tr>
         <td><img src=" <?php echo base_url();?>image/simakda.png" width="80px" weight="30px" border="0"/></td>
-        <td style="font-size: 20px;font-weight: bold;" align="center">PEMERINTAH <?= $kab; ?> <br />TAHUN ANGGARAN 2021</td>
+        <td style="font-size: 20px;font-weight: bold;" align="center">PEMERINTAH <?= $kab; ?> <br />TAHUN ANGGARAN 2022</td>
     </tr>
 </table>
 <table cellpadding="2px" 
@@ -54,8 +54,8 @@ cellspacing="1px"  width="400px" class="tableBorder" align="center">
 <td>
 
 
-   <?php $thang =  '2021'; 
-          $th = '2021'; 
+   <?php $thang =  '2022'; 
+          $th = '2022'; 
         /*$thang_maks = $thang + 5 ;
         $thang_min = $thang - 5 ;
         echo '<select name ="pcthang">';
