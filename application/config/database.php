@@ -48,8 +48,8 @@
 
 $active_group = 'default';
 $active_record = TRUE;
-$db['default']['hostname'] = 'driver=SQL Server;server=WIN-AQBKHVSM07E\SQLEXPRESS;uid=sa;pwd=@gajahmada08;database=db_simakda_acehsingkil';
-$db['default']['database'] = 'db_simakda_acehsingkil';
+$db['default']['hostname'] = 'driver=SQL Server;server=WIN-AQBKHVSM07E\SQLEXPRESS;uid=sa;pwd=@gajahmada08;database=simakda_acehsingkil_2022';
+$db['default']['database'] = 'simakda_acehsingkil_2022';
 $db['default']['username'] = 'test';
 $db['default']['password'] = 'test';
 $db['default']['dbdriver'] = 'odbc';
